@@ -1,7 +1,7 @@
 # weather-app
 I have developed a weather app for using api fetch and it is a responsive application. Weather apps enable users to get instant alerts regarding weather conditions. Weather apps are the simplest method to know about the updates of the upcoming weather.
 
-#Technologies use:-
+# Technologies use:-
 1. Nodejs
 2. Express framework
 3. Handlabars Template
